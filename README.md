@@ -17,6 +17,27 @@ Swift is a very useful programming language that can be used for anything from s
 ## __Interesting features in Swift__
 Swift packs a ton of interesting features, however there are some important core features to touch on. Firstly, Automatic Reference Counting (ARC) is a useful feature because it tracks and manages the program’s memory usage, so you don’t need to manage the memory yourself (7). Secondly, Swift offers type safety through introducing an interesting type called Optional. The Optional type safely handles the absence of a value and forces us to handle the nil case explicitly to ensure that no bad assumptions are made about what a variable holds (8). For example, if a variable is an optional String, we know that either the variable is a String or the variable doesn’t have a value (8). Another feature that Swift implements is called a guard statement. A guard is used to transfer program control out of a scope if one or more conditions aren’t met (9). This allows us to return a function early. In that sense, a guard statement can be used like a reverse if statement. However, a guard statement can be more than a reverse if statement. A guard statement can also be used to unwrap Optional bindings using “guard let.” This is useful because it can safely unwrap an Optional variable, which can guarantee it to be of a type, such as String.
 
+### *Optional* type:
+An optional in Swift is a type that can hold either a value or no value.  An optional is a kind of container. For example, an optional String is a container which might contain a string. Optionals are written by appending a `?` to any type:
+```
+var firstname: String?
+```
+This above example means that the variable firstname can either be a String or does not contain anything, represented by the `?`.
+
+### Guard statement usage:
+Guard looks like and if-else statement without the "if" part. However, guard can be used for much more than an if statement because it was designed to transfer program control out of a scope if one or more of the conditions aren't met. For example, guard can be used to early exit when an optional unwrapping fails. 
+```
+guard condition else {
+    statements
+}
+```
+String unwrapping. Str is safely unwrapped and is guaranteed to be a String type from here on:
+```
+guard let str = strOptional else {
+    return
+}
+```
+
 ## __Source Links__
 
 1. http://nondot.org/sabre/
