@@ -10,8 +10,7 @@ Swift is a very young object oriented programming language that incorporates var
 
 ## __The type of tasks is Swift suitable for__
 
-
-## __Examples of where swift has been used successfully__
+Developed by Apple in order to provide developers with a faster, safer, more reliable way to write software, Swift is used in order to create applications for all Apple platforms. This includes iOS, macOS, watchOS, and tvOS. Swift was developed by Apple as a replacement for C-base languages such as C, C++, and Objective-C, meaning it is capable of performing similar tasks. It was however, created in order to be a faster alternative to Objective-C that also benefits from an ease of learning, simpler code, safety, and its interactivity. Because of these reasons, especially its simplicity, it is especially popular among start-up companies and beginning developers. Also, the fact that Swift can serve as both a forward-facing and server side language, it is beneficial to companies because for a product such as Facebook, apps and servers can speak to each other seamlessly (11). Lots of applications currently available for iPhones, iPads, and other iOS devices utilize Swift in their code. Although they are not written entirely in Swift, programs such as Firefox, Wordpress, Airbnb, LinkedIn, Venmo, etc all utilize Swift (10). In addition to iOS app development, the language can also be used on Linux in order to build Swift Libraries.
 
 
 ## __Why should someone consider swift for a particular task__
@@ -27,9 +26,15 @@ Swift is a very young object oriented programming language that incorporates var
 
 
 ## __Source Links__
+1.) http://nondot.org/sabre/
+2.) https://theswiftdev.com/2017/10/03/evolution-of-the-swift-language/
+3.)https://arstechnica.com/gadgets/2014/06/a-fast-look-at-swift-apples-new-programming-language/
+4.) https://insights.stackoverflow.com/survey/2015#tech-super
+5.) https://swift.org/
+6.) https://apple.com/swift
+7.) https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-swift-programming-language/
+8.) https://medium.com/ios-os-x-development/10-things-i-like-about-swift-7bbd40cabb79
+9.) https://learnappmaking.com/swift-guard-let-statement-how-to/
+10.)https://medium.com/@ryanolsonk/are-the-top-apps-using-swift-42e880e7727f
+11.)https://careerfoundry.com/en/blog/ios-development/introduction-to-swift-for-non-programmers/
 
-1. http://nondot.org/sabre/
-2. https://theswiftdev.com/2017/10/03/evolution-of-the-swift-language/
-3. https://arstechnica.com/gadgets/2014/06/a-fast-look-at-swift-apples-new-programming-language/
-4. https://insights.stackoverflow.com/survey/2015#tech-super
-5. https://swift.org/
