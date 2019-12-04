@@ -37,6 +37,8 @@ guard let str = strOptional else {
     return
 }
 ```
+## __Link to presentation slides__
+https://docs.google.com/presentation/d/1mOtNH9gjvqiKR6zS3GdisAAZI2vFRhFbP-OF7sUxMic/edit?usp=sharing
 
 ## __Source Links__
 
