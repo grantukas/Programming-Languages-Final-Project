@@ -3,6 +3,8 @@
 //  calculator
 //
 //  Tutorial https://www.youtube.com/watch?v=5tpQEsJ0iVg
+//  Tutorial Created by Sebastian Hette on 12.12.2016.
+
 
 
 import UIKit
