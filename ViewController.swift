@@ -2,9 +2,8 @@
 //  ViewController.swift
 //  calculator
 //
-//  Created by Sebastian Hette on 12.12.2016.
-//  Copyright © 2016 MAGNUMIUM. All rights reserved.
-//
+//  Tutorial https://www.youtube.com/watch?v=5tpQEsJ0iVg
+
 
 import UIKit
 
